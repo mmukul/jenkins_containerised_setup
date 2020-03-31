@@ -1,0 +1,7 @@
+blueocean-git-pipeline:latest
+cobertura:latest
+Parameterized-Remote-Trigger:latest
+findbugs:latest
+junit:latest
+JDK_Parameter_Plugin:latest
+multiple-scms:latest
